@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAREBEEF
 
-- 👀 I’m interested in
+- 👀 I’m interested in ...
   - Front-end
   - Movie
   - Game
