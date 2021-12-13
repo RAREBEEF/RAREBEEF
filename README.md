@@ -1,15 +1,17 @@
 - 👋 Hi, I’m @RAREBEEF
 
 - 👀 I’m interested in ...
-  - Front-end
+  - Development
   - Movie
   - Game
-  - Development
-  - React Native
   - Employment
   
 - 🌱 I’m currently learning ...
   - React
+
+- 📚 What I want to learn is ...
+  - React Native
+  - Other programming languages(C, Swift, Java, etc.)
 
 - 📫 How to reach me ...
   - drrobbot409@gmail.com
