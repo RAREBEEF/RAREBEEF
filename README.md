@@ -6,6 +6,7 @@
   - Game
   - Development
   - React Native
+  - Employment
   
 - 🌱 I’m currently learning ...
   - React
