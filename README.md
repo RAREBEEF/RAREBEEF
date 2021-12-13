@@ -11,7 +11,7 @@
 
 - 📚 What I want to learn is ...
   - React Native
-  - Other programming languages(C, Swift, Java, etc.)
+  - Other programming languages (C, Swift, Java, etc.)
 
 - 📫 How to reach me ...
   - drrobbot409@gmail.com
