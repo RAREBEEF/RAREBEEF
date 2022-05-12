@@ -4,7 +4,6 @@
   - Development
   - Movie
   - Game
-  - Employment
   
 - 🌱 I’m currently learning ...
   - React
