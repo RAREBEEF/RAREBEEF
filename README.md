@@ -9,8 +9,7 @@
   - React
 
 - 📚 What I want to learn is ...
-  - React Native
-  - Other programming languages (C, Swift, Java, etc.)
+  - React VR
 
 - 📫 How to reach me ...
   - drrobbot409@gmail.com
