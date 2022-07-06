@@ -6,7 +6,7 @@
   - Game
   
 - 🌱 I’m currently learning ...
-  - React
+  - Three.js
 
 - 📚 What I want to learn is ...
   - React VR
