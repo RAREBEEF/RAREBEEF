@@ -6,7 +6,9 @@
   - Game
   
 - 🌱 I’m currently learning ...
-  - Three.js
+  - Next.js
+  - Tailwindcss
+  - PWA
 
 - 📚 What I want to learn is ...
   - React VR
