@@ -2,16 +2,11 @@
 
 - 👀 I’m interested in ...
   - Development
-  - Movie
-  - Game
-  
-- 🌱 I’m currently learning ...
-  - Next.js
-  - Tailwindcss
-  - PWA
+  - Photography
+  - Watching Movies
 
 - 📚 What I want to learn is ...
-  - React VR
+  - Dart & Flutter
 
 - 📫 How to reach me ...
   - drrobbot409@gmail.com
